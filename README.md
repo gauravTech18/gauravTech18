@@ -6,7 +6,7 @@ Software engineer and web developer with good experience in designing and develo
 - 👀 I’m interested in Full Stack developer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 👨‍💻 All of my projects are available at https://github.com/
+- 👨‍💻 All of my projects are available at https://github.com/gauravTech18
 - 📫 How to reach me ...
 
 <!---
