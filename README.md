@@ -1,7 +1,12 @@
+Software engineer and web developer with good experience in designing and developing desktop applications and Web applications from concept to deployment. Ability to quickly grasp any new technologies and concepts. Strong programming, analytical and interpersonal skills. Strong communication and client interaction skills. Effective in working independently and collaboratively in teams
+
+
+
 - 👋 Hi, I’m @gauravTech18
 - 👀 I’m interested in Full Stack developer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
+- 👨‍💻 All of my projects are available at https://github.com/
 - 📫 How to reach me ...
 
 <!---
