@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravtech18&label=Profile%20views&color=0e75b6&style=flat" alt="gauravtech18" /> </p>
+
 
 - 🌱 I’m currently learning **React Js & Node Js**
 
