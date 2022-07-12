@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I' m Gaurav Jadhav</h1>
+<h1 align="center">Hi 👋,I' m Gaurav Jadhav</h1>
 <h3 align="center">| Full Stack Web Developer | Competitive Programmer | A passionate frontend developer from India</h3>
 
 
