@@ -13,7 +13,7 @@
 
 - 📝 I regularly Upload Project on [https://youtube.com/channel/UCsd0grUAFIl_2egRXN1acOw](https://youtube.com/channel/UCsd0grUAFIl_2egRXN1acOw)
 
-- 📫 How to reach me **jgaurav638@gmail.com**
+- 📫 How to reach me **jgaurav638@gmail.com // https://www.linkedin.com/in/gaurav-jadhav-73839b195**
 
 - ⚡ Fun fact **Social Networking**
 
